@@ -1,1 +1,1 @@
-## Coding Challenges for the [https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/?couponCode=5E16CAE088EE66FC4B76]()
+## Coding Challenges for the [Spring Boot Development Bootcamp](https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/?couponCode=5E16CAE088EE66FC4B76)
