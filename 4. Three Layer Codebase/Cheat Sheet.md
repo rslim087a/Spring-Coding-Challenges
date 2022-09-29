@@ -7,5 +7,7 @@ This cheat sheet contains important takeaways from section four.
 
 ## Credits
 <sup>This workbook was created by Rayan Slim. Rayan Slim is the lead author of:</sup>
+
 <sup>- The Complete Java Development Bootcamp.</sup>
+
 <sup>- The Compete Spring Boot Development Bootcamp.</sup>
