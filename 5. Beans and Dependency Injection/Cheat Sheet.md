@@ -53,3 +53,6 @@ public class AppConfig {
 	<bean id="choose a name for the bean" class="path to class"> </bean>
 </beans>
 ```
+
+--------
+##### Subscribe to our [YouTube Channel](https://www.youtube.com/@RayanSlim087?sub_confirmation=1) and Discover More Valuable Content!

@@ -232,3 +232,6 @@ You are not expected to know HTML. Use this cheat sheet as a guide.
 | `src` | `th:src` | `<img th:src="@{path-to-image}"`|
 | `style` | `th:style` | `<p th:style="${condition} ? 'str' : 'str'"`|
 | `value` | `th:value` | `<option th:value="${modelAtt}">`|
+
+--------
+##### Subscribe to our [YouTube Channel](https://www.youtube.com/@RayanSlim087?sub_confirmation=1) and Discover More Valuable Content!

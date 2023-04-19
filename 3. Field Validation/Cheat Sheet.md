@@ -65,3 +65,6 @@ Spring Boot uses your definition of `isValid` to validate the custom annotated f
 
 ### Cross-Field Validation
 `BindingResult.reject(String field, String errorCode, String errorMessage)`: rejects a field value and adds an error to the `BindingResult`.
+
+--------
+##### Subscribe to our [YouTube Channel](https://www.youtube.com/@RayanSlim087?sub_confirmation=1) and Discover More Valuable Content!

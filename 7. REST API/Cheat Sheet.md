@@ -58,4 +58,6 @@ This cheat sheet contains important takeaways that lead up to section eight.
 2. Pass the exception into the list of arguments.
 
 
+--------
+##### Subscribe to our [YouTube Channel](https://www.youtube.com/@RayanSlim087?sub_confirmation=1) and Discover More Valuable Content!
 

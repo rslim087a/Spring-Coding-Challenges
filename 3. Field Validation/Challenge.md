@@ -59,3 +59,6 @@ The `price` cannot be less than the `discount`. Apply cross-field validation to 
 ![Screen Shot 2022-06-02 at 9.10.26 PM.png](https://firebasestorage.googleapis.com/v0/b/learnthepart-75aed.appspot.com/o/images%2F0350222f-9e52-41ab-9497-9b34d0103a58?alt=media&token=aeb2645d-b2e2-4daf-ad63-f19fe4498469)
 
 ## Good Luck!
+
+--------
+##### Subscribe to our [YouTube Channel](https://www.youtube.com/@RayanSlim087?sub_confirmation=1) and Discover More Valuable Content!
